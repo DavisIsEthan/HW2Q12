@@ -150,3 +150,6 @@ names(nvec)
 names(nvec) <- c("uno", "dos", "tres") 
 nvec
 
+Davis <- "This dude is such a dork, look at him"
+NotAValidContribution <- 22/7 ## This is pi, right?
+g <- 10 ## Make my physics friends upset
